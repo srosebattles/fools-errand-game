@@ -49,6 +49,8 @@ skills/
 LICENSE              CC BY 4.0
 ```
 
+The assets folder holds the plugin's icon (Gerald, naturally) and its editable SVG source.
+
 ## License
 
 A Fool's Errand by Sarah Rose Battles is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). The full text is in [LICENSE](LICENSE).
