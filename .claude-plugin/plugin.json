@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "fools-errand",
+  "displayName": "A Fool's Errand",
+  "version": "1.0.0",
+  "description": "A silly, light-hearted medieval text adventure. You play a hapless peasant declared the Chosen One by the kingdom's extremely nearsighted Royal Wizard, and his goose is not impressed.",
+  "author": {
+    "name": "Sarah Rose Battles",
+    "url": "https://github.com/srosebattles"
+  },
+  "homepage": "https://github.com/srosebattles/fools-errand-game",
+  "repository": "https://github.com/srosebattles/fools-errand-game",
+  "license": "CC-BY-4.0",
+  "keywords": ["game", "text-adventure", "interactive-fiction", "medieval", "comedy"]
+}
