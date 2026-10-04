@@ -46,4 +46,13 @@ This plugin contains a single skill, `fools-errand`, which is plain Markdown ins
 skills/
   fools-errand/
     SKILL.md         The game master instructions
+LICENSE              CC BY 4.0
 ```
+
+## License
+
+A Fool's Errand by srosebattles is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). The full text is in [LICENSE](LICENSE).
+
+You're free to share and adapt it, including commercially, as long as you give credit and say if you made changes. If you publish a remix, please include a link back to [llmtextgames.xyz](https://llmtextgames.xyz) in your credit. For example:
+
+> Based on *A Fool's Errand* by srosebattles ([llmtextgames.xyz](https://llmtextgames.xyz)), licensed under CC BY 4.0.

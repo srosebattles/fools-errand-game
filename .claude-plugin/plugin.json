@@ -10,5 +10,6 @@
   },
   "homepage": "https://github.com/srosebattles/fools-errand-game",
   "repository": "https://github.com/srosebattles/fools-errand-game",
+  "license": "CC-BY-4.0",
   "keywords": ["game", "text-adventure", "interactive-fiction", "medieval", "comedy"]
 }
