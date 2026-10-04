@@ -1,0 +1,15 @@
+{
+  "name": "fools-errand-game",
+  "description": "A Fool's Errand, a silly medieval text adventure for Claude",
+  "owner": {
+    "name": "srosebattles",
+    "url": "https://github.com/srosebattles"
+  },
+  "plugins": [
+    {
+      "name": "fools-errand",
+      "source": "./",
+      "description": "A silly, light-hearted medieval text adventure starring you, a nearsighted wizard, and a goose named Gerald"
+    }
+  ]
+}
