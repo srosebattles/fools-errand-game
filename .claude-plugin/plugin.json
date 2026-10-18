@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "fools-errand",
   "displayName": "A Fool's Errand",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A silly, light-hearted medieval text adventure. You play a hapless peasant declared the Chosen One by the kingdom's extremely nearsighted Royal Wizard, and his goose is not impressed.",
   "author": {
     "name": "Sarah Rose Battles",
