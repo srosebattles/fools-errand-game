@@ -3,7 +3,7 @@
   "name": "fools-errand",
   "displayName": "A Fool's Errand",
   "version": "1.1.0",
-  "description": "A silly, light-hearted medieval text adventure. You play a hapless peasant declared the Chosen One by the kingdom's extremely nearsighted Royal Wizard, and his goose is not impressed.",
+  "description": "A medieval text adventure in which a nearsighted wizard declares you the Chosen One",
   "author": {
     "name": "Sarah Rose Battles",
     "url": "https://llmtextgames.xyz"

@@ -9,7 +9,7 @@
     {
       "name": "fools-errand",
       "source": "./",
-      "description": "A silly, light-hearted medieval text adventure starring you, a nearsighted wizard, and a goose named Gerald"
+      "description": "A medieval text adventure in which a nearsighted wizard declares you the Chosen One"
     }
   ]
 }
